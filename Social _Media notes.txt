@@ -1,0 +1,20 @@
+*****SOME POINTS:-
+
+1) Login API => 
+http://localhost:3000/login
+
+
+2) You can click on `REGISTER` button - to go on `Register`  Page
+
+
+3) Login to access the website. i.e. Home Page
+
+
+-Frontend React works on - http://localhost:3000/
+
+-Backend Express works on-  http://localhost:8800/
+
+-For Database MySQL workbench is used,
+modify `connect.js` file from `api` folder to use your database.
+
+
